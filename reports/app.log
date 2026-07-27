@@ -1,0 +1,4 @@
+2026-07-24 01:07:11,853 - churn_app - INFO - Processed dataset CSV saved -> reports\processed_dataset.csv
+2026-07-24 01:07:11,974 - churn_app - INFO - Analytics report PDF saved -> reports\analytics_report_20260724_010711.pdf
+2026-07-24 01:07:12,153 - churn_app - INFO - Prediction report PDF saved -> reports\prediction_report_20260724_010712.pdf
+2026-07-24 01:07:12,156 - churn_app - INFO - Prediction: Yes | Probability: 89.41% | Risk: High

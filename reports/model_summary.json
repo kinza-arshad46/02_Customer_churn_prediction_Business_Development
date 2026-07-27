@@ -1,0 +1,36 @@
+{
+  "best_model_name": "Logistic Regression",
+  "metrics": {
+    "accuracy": 0.7388218594748048,
+    "precision": 0.5050847457627119,
+    "recall": 0.7967914438502673,
+    "f1_score": 0.6182572614107884,
+    "roc_auc": 0.839233769924307
+  },
+  "feature_names": [
+    "gender",
+    "SeniorCitizen",
+    "Partner",
+    "Dependents",
+    "tenure",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod",
+    "MonthlyCharges",
+    "TotalCharges",
+    "tenure_group",
+    "avg_monthly_spend",
+    "num_services",
+    "has_internet"
+  ],
+  "selection_metric": "roc_auc"
+}
